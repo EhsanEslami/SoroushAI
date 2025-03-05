@@ -14,10 +14,13 @@ fi
 
 # Add large files to .gitignore and untrack them
 for file in $LARGE_FILES; do
-    if ! grep -qxF "$file" .gitignore; then
-        echo "$file" >> .gitignore
-        echo "Added $file to .gitignore"
+    # Convert ./file to file (remove leading ./)
+    REL_PATH=$(realpath --relative-to="$(git rev-parse --show-toplevel)" "$file")
+
+    if ! grep -qxF "$REL_PATH" .gitignore; then
+        echo "$REL_PATH" >> .gitignore
+        echo "Added $REL_PATH to .gitignore"
     fi
-    git rm --cached "$file"
-    echo "Untracked $file from Git"
+    git rm --cached "$REL_PATH"
+    echo "Untracked $REL_PATH from Git"
 done
