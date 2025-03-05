@@ -31,17 +31,21 @@ for filename in tqdm(mp3_files, desc="Processing audio files"):
     audio_path = os.path.join(audio_directory, filename)
     print(f"Processing {audio_path}...")
     
-    # Run the speech-to-text pipeline
-    result = pipe(audio_path, return_timestamps=True)
-    transcribed_text = result["text"]
-    
-    # Define output text file path
-    output_file = os.path.join(output_directory, f"{os.path.splitext(filename)[0]}_transcription.txt")
-    
-    # Save the output to a text file
-    with open(output_file, "w", encoding="utf-8") as file:
-        file.write(transcribed_text)
-    
-    print(f"Transcription saved to {output_file}")
+    try:
+        # Run the speech-to-text pipeline
+        result = pipe(audio_path, return_timestamps=True)
+        transcribed_text = result["text"]
+        
+        # Define output text file path
+        output_file = os.path.join(output_directory, f"{os.path.splitext(filename)[0]}_transcription.txt")
+        
+        # Save the output to a text file
+        with open(output_file, "w", encoding="utf-8") as file:
+            file.write(transcribed_text)
+        
+        print(f"Transcription saved to {output_file}")
+    except Exception as e:
+        print(f"Error processing {audio_path}: {e}")
+        continue
 
 print("Processing complete!")
