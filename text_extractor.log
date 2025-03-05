@@ -1,0 +1,66 @@
+nohup: ignoring input
+Hugging Face cache directory: /data/huggingface
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  2.05it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  3.71it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  3.31it/s]
+Device set to use cuda:0
+Processing audio files:   0%|          | 0/79 [00:00<?, ?it/s]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:   1%|▏         | 1/79 [10:17<13:22:28, 617.28s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:   3%|▎         | 2/79 [25:21<16:48:46, 786.06s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:   4%|▍         | 3/79 [42:42<19:03:11, 902.51s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:   5%|▌         | 4/79 [1:04:51<22:18:37, 1070.90s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:   6%|▋         | 5/79 [1:22:35<21:57:40, 1068.39s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:   8%|▊         | 6/79 [1:41:15<22:01:18, 1086.01s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:   9%|▉         | 7/79 [1:58:25<21:21:04, 1067.56s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  10%|█         | 8/79 [2:16:34<21:11:13, 1074.28s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  11%|█▏        | 9/79 [2:33:51<20:40:00, 1062.86s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  13%|█▎        | 10/79 [2:52:27<20:41:05, 1079.21s/it]You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  14%|█▍        | 11/79 [3:07:14<19:16:31, 1020.47s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  15%|█▌        | 12/79 [3:26:01<19:35:29, 1052.68s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  16%|█▋        | 13/79 [3:43:57<19:25:55, 1059.93s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  18%|█▊        | 14/79 [4:01:01<18:56:31, 1049.10s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  19%|█▉        | 15/79 [4:13:59<17:11:48, 967.33s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  20%|██        | 16/79 [4:30:04<16:54:52, 966.55s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  22%|██▏       | 17/79 [4:49:43<17:44:50, 1030.49s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  23%|██▎       | 18/79 [5:08:16<17:52:47, 1055.20s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  24%|██▍       | 19/79 [5:19:42<15:44:17, 944.29s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  25%|██▌       | 20/79 [5:41:01<17:07:33, 1044.98s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  27%|██▋       | 21/79 [5:59:33<17:09:35, 1065.10s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  28%|██▊       | 22/79 [6:18:00<17:03:40, 1077.56s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  29%|██▉       | 23/79 [6:36:19<16:51:37, 1083.89s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  30%|███       | 24/79 [6:49:09<15:07:17, 989.78s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  32%|███▏      | 25/79 [7:10:06<16:02:59, 1069.98s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  33%|███▎      | 26/79 [7:26:07<15:16:10, 1037.18s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
