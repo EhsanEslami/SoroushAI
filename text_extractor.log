@@ -64,3 +64,295 @@ Whisper did not predict an ending timestamp, which can happen if audio is cut of
   warnings.warn(
 Processing audio files:  33%|███▎      | 26/79 [7:26:07<15:16:10, 1037.18s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
   warnings.warn(
+Processing audio files:  34%|███▍      | 27/79 [7:45:34<15:32:37, 1076.11s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  35%|███▌      | 28/79 [8:04:39<15:32:21, 1096.89s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  37%|███▋      | 29/79 [8:20:07<14:31:49, 1046.20s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  38%|███▊      | 30/79 [8:37:48<14:17:59, 1050.59s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  39%|███▉      | 31/79 [8:57:08<14:26:46, 1083.47s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  41%|████      | 32/79 [9:09:22<12:46:31, 978.54s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  42%|████▏     | 33/79 [9:19:31<11:05:10, 867.63s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  43%|████▎     | 34/79 [9:32:01<10:24:20, 832.46s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  44%|████▍     | 35/79 [9:51:11<11:20:22, 927.77s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  46%|████▌     | 36/79 [10:10:43<11:57:25, 1001.06s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  47%|████▋     | 37/79 [10:29:29<12:07:01, 1038.61s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  48%|████▊     | 38/79 [10:44:18<11:18:56, 993.58s/it] Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۴.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۴_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J36.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J36_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۳دکترسروش۲۸آگوست۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۳دکترسروش۲۸آگوست۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۸مثنوی‌دفترششم‌دکترسروش۲۸ژانویه۲۰۲۴.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۸مثنوی‌دفترششم‌دکترسروش۲۸ژانویه۲۰۲۴_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J34_20220925_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J34_20220925__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J73_2024_04_07.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J73_2024_04_07_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ـtrimمثنوی‌دفترششم‌ج۲۶دکترسروش۸می۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ـtrimمثنوی‌دفترششم‌ج۲۶دکترسروش۸می۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۶.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۶_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۸.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۸_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۲۵.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۲۵_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J78_2024-06-23_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J78_2024-06-23__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوى د٦ج٥.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوى د٦ج٥_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم۶۵دکترسروش۳دسامبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم۶۵دکترسروش۳دسامبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۶.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۶_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۵۷دفترششم‌مثنوی_دکترسروش۱۳أگوست۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۵۷دفترششم‌مثنوی_دکترسروش۱۳أگوست۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J76_2024_05_19_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J76_2024_05_19__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۹دکترسروش۴دسامبر۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۹دکترسروش۴دسامبر۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم۶۶دکترسروش۱۷دسامبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم۶۶دکترسروش۱۷دسامبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۱.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۱_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۲دکترسروش۱۴آگوست۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۲دکترسروش۱۴آگوست۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۰.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۰_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۵۸دفترششم‌مثنوی_دکترسروش۲۷أگوست۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۵۸دفترششم‌مثنوی_دکترسروش۲۷أگوست۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۳دکترسروش۲۹ژانویه۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۳دکترسروش۲۹ژانویه۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۲دکترسروش۱۵ژانویه۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۲دکترسروش۱۵ژانویه۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۸دکترسروش۹آوریل۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۸دکترسروش۹آوریل۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۰مثنوی‌دفترششم‌دکترسروش۲۴سپتامبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۰مثنوی‌دفترششم‌دکترسروش۲۴سپتامبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوى د۶ج۱۹.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوى د۶ج۱۹_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J41_20230101.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J41_20230101_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۱دفترششم‌مثنوی_دکترسروش۸اکتبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۱دفترششم‌مثنوی_دکترسروش۸اکتبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/2024_03_10_Masnavi_D6_J71_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/2024_03_10_Masnavi_D6_J71__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J72_2024-03-24Ssize.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J72_2024-03-24Ssize_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۷.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۷_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/2023-07-30_Masnavi_D6_J56_ ().mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/2023-07-30_Masnavi_D6_J56_ ()_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۲۱.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۲۱_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۷.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۷_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوى د۶ج۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوى د۶ج۳_transcription.txt
+/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  49%|████▉     | 39/79 [10:58:13<10:30:39, 946.00s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  51%|█████     | 40/79 [11:17:26<10:55:13, 1008.05s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  52%|█████▏    | 41/79 [11:31:20<10:05:23, 955.89s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  53%|█████▎    | 42/79 [11:50:43<10:27:44, 1017.97s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  54%|█████▍    | 43/79 [12:06:47<10:01:07, 1001.89s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  56%|█████▌    | 44/79 [12:24:27<9:54:40, 1019.44s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  57%|█████▋    | 45/79 [12:41:33<9:38:40, 1021.20s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  58%|█████▊    | 46/79 [12:54:47<8:44:11, 953.09s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  59%|█████▉    | 47/79 [13:13:18<8:53:32, 1000.39s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  61%|██████    | 48/79 [13:31:33<8:51:31, 1028.77s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  62%|██████▏   | 49/79 [13:51:48<9:02:19, 1084.65s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  63%|██████▎   | 50/79 [14:07:14<8:21:21, 1037.30s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  65%|██████▍   | 51/79 [14:23:45<7:57:32, 1023.32s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  66%|██████▌   | 52/79 [14:36:57<7:09:16, 953.94s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  67%|██████▋   | 53/79 [14:53:07<6:55:22, 958.57s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  68%|██████▊   | 54/79 [15:12:59<7:08:40, 1028.84s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  70%|██████▉   | 55/79 [15:29:48<6:49:09, 1022.90s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  71%|███████   | 56/79 [15:49:41<6:51:37, 1073.79s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  72%|███████▏  | 57/79 [16:04:08<6:10:55, 1011.62s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  73%|███████▎  | 58/79 [16:20:00<5:47:53, 993.97s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  75%|███████▍  | 59/79 [16:31:35<5:01:22, 904.13s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  76%|███████▌  | 60/79 [16:46:51<4:47:29, 907.85s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  77%|███████▋  | 61/79 [17:05:05<4:49:02, 963.48s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  78%|███████▊  | 62/79 [17:19:49<4:26:17, 939.87s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  80%|███████▉  | 63/79 [17:35:26<4:10:20, 938.79s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  81%|████████  | 64/79 [17:54:13<4:08:50, 995.37s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  82%|████████▏ | 65/79 [18:10:13<3:49:44, 984.64s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  84%|████████▎ | 66/79 [18:24:44<3:26:00, 950.77s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  85%|████████▍ | 67/79 [18:41:26<3:13:10, 965.89s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  86%|████████▌ | 68/79 [19:01:05<3:08:48, 1029.82s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  87%|████████▋ | 69/79 [19:20:06<2:57:14, 1063.42s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  89%|████████▊ | 70/79 [19:39:40<2:44:28, 1096.52s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  90%|████████▉ | 71/79 [19:54:38<2:18:14, 1036.78s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  91%|█████████ | 72/79 [20:09:21<1:55:36, 990.87s/it] /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  92%|█████████▏| 73/79 [20:28:41<1:44:09, 1041.64s/it]Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۵۴دکترسروش۲جولای۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۵۴دکترسروش۲جولای۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۱دکترسروش۳۱جولای۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۱دکترسروش۳۱جولای۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۲۸دکترسروش۵جون۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۲۸دکترسروش۵جون۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۵دکترسروش۹اکتبر۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۵دکترسروش۹اکتبر۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۷مثنوی‌دفترششم‌دکترسروش۱۴ٓژانویه۲۰۲۴_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۷مثنوی‌دفترششم‌دکترسروش۱۴ٓژانویه۲۰۲۴__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۰دکترسروش۱۷جولای۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۰دکترسروش۱۷جولای۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۹مثنوی‌دفترششم‌دکترسروش۱۱فوریه۲۰۲۴.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۹مثنوی‌دفترششم‌دکترسروش۱۱فوریه۲۰۲۴_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J77_2024-06-02_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J77_2024-06-02__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۲۰.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۲۰_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۸دکترسروش۲۰نوامبر۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۸دکترسروش۲۰نوامبر۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۵۳دکترسروش۱۸جون۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۵۳دکترسروش۱۸جون۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۴دکترسروش۱۲فوریه۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۴دکترسروش۱۲فوریه۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۹.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۹_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۵۵دفترششم‌مثنوی_دکترسروش_۱۶جولای۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۵۵دفترششم‌مثنوی_دکترسروش_۱۶جولای۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J74_2024_04_21.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J74_2024_04_21_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۹دکترسروش۲۳آوریل۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۹دکترسروش۲۳آوریل۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۲۴.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۲۴_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۷۰مثنوی‌دفترششم‌دکترسروش۲۵فوریه۲۰۲۴.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۷۰مثنوی‌دفترششم‌دکترسروش۲۵فوریه۲۰۲۴_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۶دکترسروش۱۲مارچ۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۶دکترسروش۱۲مارچ۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوى د۶ج۸.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوى د۶ج۸_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۵دکترسروش۲۶فوریه۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۵دکترسروش۲۶فوریه۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۷دکترسروش۲۶مارچ۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۷دکترسروش۲۶مارچ۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۲۹دکترسروش۳جولای۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۲۹دکترسروش۳جولای۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۵۲دکترسروش۴جون۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۵۲دکترسروش۴جون۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۴۰دکترسروش۱۸دسامبر۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۴۰دکترسروش۱۸دسامبر۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J75_2024_05_05_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J75_2024_05_05__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/Masnavi_D6_J79_20240707_ (۷۹).mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/Masnavi_D6_J79_20240707_ (۷۹)_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۵۰دکترسروش۷می۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۵۰دکترسروش۷می۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۲۷دکترسروش۲۲می۲۰۲۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۲۷دکترسروش۲۲می۲۰۲۲_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوی د۶ج۱۵.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوی د۶ج۱۵_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/شرح مثنوى د۶ج۴.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/شرح مثنوى د۶ج۴_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی معنوی د۶ج۲.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی معنوی د۶ج۲_transcription.txt
+/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  94%|█████████▎| 74/79 [20:45:39<1:26:12, 1034.43s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files:  95%|█████████▍| 75/79 [21:03:55<1:10:11, 1052.78s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  96%|█████████▌| 76/79 [21:24:10<55:05, 1101.69s/it]  /data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  97%|█████████▋| 77/79 [21:42:41<36:48, 1104.44s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Processing audio files:  99%|█████████▊| 78/79 [22:01:14<18:26, 1106.95s/it]/data/soroush/lib/python3.10/site-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+Whisper did not predict an ending timestamp, which can happen if audio is cut off in the middle of a word. Also make sure WhisperTimeStampLogitsProcessor was used during generation.
+Processing audio files: 100%|██████████| 79/79 [22:20:32<00:00, 1122.22s/it]Processing audio files: 100%|██████████| 79/79 [22:20:32<00:00, 1018.13s/it]
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۳۷دکترسروش۶نوامبر۲۰۲۲_1.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۳۷دکترسروش۶نوامبر۲۰۲۲_1_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۳دفترششم‌مثنوی_دکترسروش۵نوامبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۳دفترششم‌مثنوی_دکترسروش۵نوامبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۶۲دفترششم‌مثنوی_دکترسروش۲۲اکتبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۶۲دفترششم‌مثنوی_دکترسروش۲۲اکتبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/ج۵۹دفترششم‌مثنوی_دکترسروش۱۰سپتامبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/ج۵۹دفترششم‌مثنوی_دکترسروش۱۰سپتامبر۲۰۲۳__transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم‌ج۵۱دکترسروش۲۱می۲۰۲۳.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم‌ج۵۱دکترسروش۲۱می۲۰۲۳_transcription.txt
+Processing /data/EES/SoroushAI/input_audio/مثنوی‌دفترششم۶۴دکترسروش۱۹نوامبر۲۰۲۳_.mp3...
+Transcription saved to /data/EES/SoroushAI/output_text/مثنوی‌دفترششم۶۴دکترسروش۱۹نوامبر۲۰۲۳__transcription.txt
+Processing complete!

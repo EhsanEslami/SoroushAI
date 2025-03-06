@@ -1,2 +1,3 @@
 test/segment.wav
 input_audio/
+.env
