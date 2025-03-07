@@ -1,4 +1,5 @@
 test/segment.wav
 input_audio/
 chroma_cache/
+chroma_cache_0/
 .env
