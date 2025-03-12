@@ -56,7 +56,7 @@ def retrieve_node(state: CustomMessagesState) -> CustomMessagesState:
     query = get_latest_query(state)
     context = top_chunk(retriever, query)  # Fetch top document chunk
     state["context"] = context
-    state.messages.append(HumanMessage(content="retrieve node: context retrieved."))
+    state.messages.append( AIMessage(content="retrieve node: context retrieved."))
     return state
 
 def grade_node(state: CustomMessagesState) -> CustomMessagesState:
@@ -67,7 +67,7 @@ def grade_node(state: CustomMessagesState) -> CustomMessagesState:
     context = state.context
     binary_score = assess_retrieve_docs(query, context)
     state["binary_score"] = binary_score
-    state.messages.append(HumanMessage(content=f"grade node: graded with score {binary_score}."))
+    state.messages.append( AIMessage(content=f"grade node: graded with score {binary_score}."))
     return state
 
 def check_relevance(state: CustomMessagesState) -> Literal["web_search", "generate"]:
@@ -83,7 +83,7 @@ def web_search_node(state: CustomMessagesState) -> CustomMessagesState:
     query = get_latest_query(state)
     context = search_web(query)
     state["context"] = context
-    state.messages.append(HumanMessage(content="web_search node: performed web search."))
+    state.messages.append( AIMessage(content="web_search node: performed web search."))
     return state
 
 def generate_node(state: CustomMessagesState) -> CustomMessagesState:
@@ -94,7 +94,7 @@ def generate_node(state: CustomMessagesState) -> CustomMessagesState:
     response = generate_response(retriever, query, documents)  # Use global retriever
     state["response"] = response
     state.messages.append(AIMessage(content=response))
-    state.messages.append(HumanMessage(content="generate node: final response generated."))
+    state.messages.append( AIMessage(content="generate node: final response generated."))
     return state
 
 # -----------------------------

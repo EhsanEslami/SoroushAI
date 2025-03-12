@@ -1,15 +1,11 @@
 import streamlit as st
-import openai
 import os
 from dotenv import load_dotenv
 from graph import query_pipeline  # Import the new pipeline function
 
 load_dotenv()
 
-API_KEY = os.getenv("OPENAI_API_KEY")
-openai.api_key = API_KEY
-
-st.title("🤖 Chatbot App")
+st.title("Welcome to Souroush AI")
 chat_placeholder = st.empty()
 
 def init_chat_history():
@@ -23,28 +19,28 @@ def start_chat():
     """Start the chatbot conversation."""
     # Display chat messages from history on app rerun
     with chat_placeholder.container():
-        for message in st.session_state.messages:
-            if message["role"] != "system":
-                with st.chat_message(message["role"]):
-                    st.markdown(message["content"])
-
+        for message in st.session_state["messages"]:
+            with st.chat_message(message["role"]):
+                st.markdown(message["content"])
+    
     # Accept user input
-    if prompt := st.chat_input("What is up?"):
-        # Add user message to chat history
-        st.session_state.messages.append({"role": "user", "content": prompt})
+    if prompt := st.chat_input("چه شعری دز ذهن داری؟"):
+        # Append user query as a human message
+        st.session_state["messages"].append({"role": "user", "content": prompt})
         
-        # Display user message in chat container
+        # Display user message
         with st.chat_message("user"):
             st.markdown(prompt)
         
-        # Generate response using your new pipeline
+        # Generate response using the new pipeline
         response = query_pipeline(prompt)
         
-        # Display assistant's message
+        # Display assistant's response
         with st.chat_message("assistant"):
             st.markdown(response)
+        
         # Append assistant's response to the chat history
-        st.session_state.messages.append({"role": "assistant", "content": response})
+        st.session_state["messages"].append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
     init_chat_history()
