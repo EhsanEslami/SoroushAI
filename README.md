@@ -36,8 +36,19 @@ To set up and run the project, follow these steps:
    ```
 
 ## Usage
+
+Before running the application, configure your API keys:
+
+1. Open the `.env.example` file and add your keys:
+   ```sh
+   OPENAI_API_KEY=""
+   TAVILY_API_KEY=""
+   ```
+2. Rename the file to `.env`.
+
 1. Start the chatbot application:
    ```sh
    streamlit run chatbot/app.py
    ```
 2. Open the provided link in your browser to interact with the AI bot.
+
