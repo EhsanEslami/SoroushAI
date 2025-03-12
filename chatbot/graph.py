@@ -54,9 +54,11 @@ def retrieve_node(state: CustomMessagesState) -> CustomMessagesState:
     Retrieve top relevant document chunk using the global retriever.
     """
     query = get_latest_query(state)
-    context = top_chunk(retriever, query)  # Fetch top document chunk
+    doc = top_chunk(retriever, query)  # Fetch top document chunk (a Document object)
+    # Convert document to string (using its attribute if available)
+    context = doc.page_content if hasattr(doc, "page_content") else str(doc)
     state["context"] = context
-    state.messages.append( AIMessage(content="retrieve node: context retrieved."))
+    state.messages.append(AIMessage(content="retrieve node: context retrieved."))
     return state
 
 def grade_node(state: CustomMessagesState) -> CustomMessagesState:
@@ -81,9 +83,11 @@ def web_search_node(state: CustomMessagesState) -> CustomMessagesState:
     Perform web search if retrieval fails.
     """
     query = get_latest_query(state)
-    context = search_web(query)
+    doc = search_web(query)
+    # Convert document to string (using its attribute if available)
+    context = doc.page_content if hasattr(doc, "page_content") else str(doc)
     state["context"] = context
-    state.messages.append( AIMessage(content="web_search node: performed web search."))
+    state.messages.append(AIMessage(content="web_search node: performed web search."))
     return state
 
 def generate_node(state: CustomMessagesState) -> CustomMessagesState:
